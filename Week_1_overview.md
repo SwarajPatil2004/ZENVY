@@ -46,15 +46,9 @@ Per the requirement to review standard features of competitors like Zoho and Kek
 
 | Feature Category | **Zoho Payroll / Keka** (Standard) | **Zenvy Gen AI** (Proposed Innovation) |
 | --- | --- | --- |
-| **Payslips** | Static PDF generation. | **Dynamic Explanation:** "Why is my tax higher this month?" (Narrative Layer) .
-
- |
-| **Reporting** | Visual Dashboards (Bar charts/Pie charts). | <br>**Narrative Synthesis:** "Expenses rose 12% due to year-end bonuses in Engineering.".
-
- |
-| **Query Handling** | FAQ links or Support Ticket creation. | <br>**Conversational Resolution:** Instant answers via Chatbot using RAG.
-
- |
+| **Payslips** | Static PDF generation. | **Dynamic Explanation:** "Why is my tax higher this month?" (Narrative Layer). |
+| **Reporting** | Visual Dashboards (Bar charts/Pie charts). | <br>**Narrative Synthesis:** "Expenses rose 12% due to year-end bonuses in Engineering."|
+| **Query Handling** | FAQ links or Support Ticket creation. | <br>**Conversational Resolution:** Instant answers via Chatbot using RAG.|
 
 **Actionable Insight for Python Team:**
 We must request the "Payroll Basics" data  in **JSON format**, not just CSV. The LLM processes hierarchical JSON (nested deductions) more accurately than flat CSV rows when generating narratives.
