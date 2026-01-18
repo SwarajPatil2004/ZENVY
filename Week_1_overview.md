@@ -1,9 +1,5 @@
 # Week 1 Deliverable: Technical Selection & Execution Roadmap
 
-**Date:** January 15, 2026
-**Author:** Gen AI Team (Zenvy Payroll)
-**Subject:** Zero-Cost Technology Stack & Environment Configuration
-
 ## 1. Technical Selection: The "Zero-Cost" AI Stack
 
 To meet the requirement of "high accuracy and low hallucination" for financial summarization  while strictly maintaining a $0 budget, we have selected the following stack. This architecture avoids paid API tokens (like OpenAI) by utilizing "Free Tier" enterprise access and local inference.
