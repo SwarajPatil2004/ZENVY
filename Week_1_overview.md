@@ -2,7 +2,7 @@
 
 ## 1. Technical Selection: The "Zero-Cost" AI Stack
 
-To meet the requirement of "high accuracy and low hallucination" for financial summarization  while strictly maintaining a $0 budget, we have selected the following stack. This architecture avoids paid API tokens (like OpenAI) by utilizing "Free Tier" enterprise access and local inference.
+To meet the requirement of "high accuracy and low hallucination" for financial summarization, we have selected the following stack. This architecture avoids paid API tokens (like OpenAI) by utilizing "Free Tier" enterprise access and local inference.
 
 ### A. Large Language Model (LLM) Selection
 
@@ -23,10 +23,9 @@ To meet the requirement of "high accuracy and low hallucination" for financial s
 
 ### B. Chatbot Framework (RAG Architecture)
 
-**Selected Framework:** **LlamaIndex** (formerly GPT Index)
+* **Selected Framework:** **LlamaIndex** (formerly GPT Index)
 
-* 
-**Justification:** While LangChain is popular, **LlamaIndex** is specifically optimized for **indexing structured data** (like SQL databases and CSVs), which constitutes the bulk of Zenvy’s payroll data. It handles the "retrieval" of specific salary slips better than general text retrievers.
+* **Justification:** While LangChain is popular, **LlamaIndex** is specifically optimized for **indexing structured data** (like SQL databases and CSVs), which constitutes the bulk of Zenvy’s payroll data. It handles the "retrieval" of specific salary slips better than general text retrievers.
 
 
 
