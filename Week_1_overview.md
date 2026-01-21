@@ -1,6 +1,6 @@
 # Week 1 Deliverable: Technical Selection & Execution Roadmap
 
-## 1. Technical Selection: The "Zero-Cost" AI Stack
+## 1. Technical Selection:
 
 To meet the requirement of "high accuracy and low hallucination" for financial summarization, we have selected the following stack. This architecture avoids paid API tokens (like OpenAI) by utilizing "Free Tier" enterprise access and local inference.
 
@@ -137,7 +137,3 @@ except Exception as e:
 ## 4. Next Steps (Transition to Week 2)
 
 With the technology selected and the environment active, we are ready to move to **Phase 2: Architecture Design**.
-
-**Immediate Action:** I will schedule a sync with the Python Team to obtain the "Payroll Basics" schema  to ensure our JSON structures align with their calculation outputs.
-
-
