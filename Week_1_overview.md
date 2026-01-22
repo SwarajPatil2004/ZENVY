@@ -720,38 +720,22 @@ The payroll and HR management software market in India has seen significant grow
 
 ### 3.5 Competitive Comparison Matrix
 
-\begin{table}
-\begin{tabular}{|l|c|c|c|}
-\hline
-\textbf{Feature} & \textbf{Zoho Payroll} & \textbf{GreytHR} & \textbf{Keka} \\
-\hline
-Payroll Management & Excellent & Excellent & Excellent \\
-\hline
-Compliance Support & Global & India-focused & India-focused \\
-\hline
-Ease of Use & Moderate & High & High \\
-\hline
-Scalability & Enterprise & Mid-market & Mid-market \\
-\hline
-Price Range & Premium & Mid-range & Budget-friendly \\
-\hline
-Integration & Extensive & Limited & Limited \\
-\hline
-Mobile App & Yes & Yes & Yes \\
-\hline
-Performance Management & Good & Good (OKRs) & Good \\
-\hline
-Setup Time & 4-8 weeks & 2-4 weeks & 2-4 weeks \\
-\hline
-International Support & Strong & Weak & Weak \\
-\hline
-Multi-currency Support & Yes & Partial & Limited \\
-\hline
-Customer Base Size & Large & Large & Growing \\
-\hline
-\end{tabular}
-\caption{Competitive Feature Comparison}
-\end{table}
+Here’s the same table fixed as a proper **Markdown** table (copy-paste ready):
+
+| Feature | Zoho Payroll | GreytHR | Keka |
+|---|---|---|---|
+| Payroll Management | Excellent | Excellent | Excellent |
+| Compliance Support | Global | India-focused | India-focused |
+| Ease of Use | Moderate | High | High |
+| Scalability | Enterprise | Mid-market | Mid-market |
+| Price Range | Premium | Mid-range | Budget-friendly |
+| Integration | Extensive | Limited | Limited |
+| Mobile App | Yes | Yes | Yes |
+| Performance Management | Good | Good (OKRs) | Good |
+| Setup Time | 4–8 weeks | 2–4 weeks | 2–4 weeks |
+| International Support | Strong | Weak | Weak |
+| Multi-currency Support | Yes | Partial | Limited |
+| Customer Base Size | Large | Large | Growing |
 
 ### 3.6 Choosing the Right Solution
 
